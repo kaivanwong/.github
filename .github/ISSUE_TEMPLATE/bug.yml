@@ -1,4 +1,5 @@
-name: 🐞 Report a bug
+name: 🐞 Bug report
+description: Report an issue
 labels: [pending triage]
 body:
   - type: markdown
