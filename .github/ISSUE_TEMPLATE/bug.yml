@@ -36,3 +36,7 @@ body:
         - n/a
     validations:
       required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
