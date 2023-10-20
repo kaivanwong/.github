@@ -4,4 +4,4 @@ The default community health files for all my repos on GitHub.
 
 ## License
 
-[MIT Licensed](./LICENSE) © 2022-PRESENT [Kaivan Wong](https://github.com/kaivanwong)
+[MIT License](./LICENSE) © 2022-PRESENT [Kaivan Wong](https://github.com/kaivanwong)
